@@ -2,7 +2,7 @@
 
 ## Author
 
-[Benard Akaka]()
+[Benard Akaka](Full Stack Developer)
 
 
 
